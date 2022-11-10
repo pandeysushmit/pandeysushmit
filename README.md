@@ -3,7 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pandey-sushmit" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="pandey-sushmit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pandey-sushmit" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="pandey-sushmit" height="40" width="40" /></a>  <a href="https://www.codechef.com/users/pandeysushmit" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="pandey-sushmit" height="40" width="40" /></a>  <a href="https://leetcode.com/pandey_sushmit/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="pandey-sushmit" height="40" width="40" /></a>  <a href="https://www.hackerrank.com/pandeysushmit" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="pandeysushmit" height="40" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
