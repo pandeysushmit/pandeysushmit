@@ -1,7 +1,3 @@
-<!-- <head><style>body { background-image:url('https://img.freepik.com/free-vector/abstract-white-gold-background_23-2149290000.jpg?w=2000'); background-repeat:repeat; }
-</style></head> -->
-<!-- !(https://img.freepik.com/free-vector/abstract-white-gold-background_23-2149290000.jpg?w=2000) -->
-body{ background-image:url('[myImage.gif](https://thumbs.gfycat.com/BigFocusedCassowary-max-1mb.gif)'); background-repeat:repeat; }
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pandey Sushmit Kumar</h1>
 <h3 align="center">Web Developer & Cyber Security Enthusiast</h3>
 
