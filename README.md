@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LogoMakr-9QcNsD.png" width="300" height="100">
+  <img src="LogoMakr-9QcNsD.png" width="300" height="300">
 </p>	
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pandey Sushmit Kumar</h1>
